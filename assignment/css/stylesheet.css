@@ -88,3 +88,61 @@ main{
     border-radius: 12px;
    
 }
+.box4 button{
+    color: white;
+    }
+    
+#btncancel{
+        margin-top: 50px;
+        float:left;
+        padding: 10px 15px;
+        text-align: center;
+        cursor:pointer;
+        outline:none;
+        position: relative;
+        margin-right: 50px;
+        margin-bottom: 500px;
+        top: 650px;
+        left: -0px;
+        right: 0px;
+        bottom: 650px;
+        border-radius: 12px;
+    }
+    
+#btnnewnote{
+        margin-top: 50px;
+        float: left;
+        position: center;
+        text-align: center;
+        padding: 10px 15px;
+        border-radius: 12px;
+    }
+    
+#btnsave{
+        margin-top: 50px;
+        float: left;
+        position: relative;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        padding: 10px 15px;
+        display: table;
+        margin-left: 500px;
+        margin-bottom: 500px;
+        top: 650px ;
+        left: -0px;
+        right: 0px;
+        bottom: 650px;
+        border-radius: 12px;
+    }
+    
+#btndarktheme{
+        margin-top: 50px;
+        left: -20px;
+        float: right;
+        position: relative;
+        text-align: center;
+        padding:10px 15px;
+        border-radius: 12px;
+    
+    }
